@@ -1,7 +1,2 @@
-# An attempt to finetune DialoGPT 
+# An simple covid_consulting by finetuning DialoGPT 
 
-**Task:** Covid Doctor chatbot using DialoGPT
-
-**Dataset:** custom
-
-Test at: https://huggingface.co/spaces/rushic24/DialoGPT-Covid-Help-Doctor
